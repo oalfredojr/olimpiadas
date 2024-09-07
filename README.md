@@ -1,4 +1,4 @@
-##  **readme.md: Desvendando a Máquina de Procurar Atletas** 
+##  Desvendando a Máquina de Procurar Atletas - Imersão Dev com Google Gemini
 
 **O que faz essa fera?**
 
@@ -38,4 +38,4 @@ Esse projeto é um exemplo simples de como usar JavaScript para criar uma experi
 
 **Dica:** Para deixar o README ainda mais legal, você pode adicionar imagens ou GIFs mostrando a aplicação funcionando. 
 
-**Gostou? Deixe um ⭐ para mostrar seu apoio!**
+
